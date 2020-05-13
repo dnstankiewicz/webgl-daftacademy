@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://dnstankiewicz.github.io/webgl-daftacademy/",
   "scripts": {
-    "dev": "nodemon index.js"
+    "deploy": "gh-pages -d public"
   },
   "author": "",
   "license": "ISC",
